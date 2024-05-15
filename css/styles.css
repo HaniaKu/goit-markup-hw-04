@@ -415,7 +415,7 @@ body{
  
 /* =====FOOTER STYLES ===== */
 
-.footer{
+.footer-page{
     padding: 100px 0;
     color: var(--white);
     background-color: var(--navy-blue);
